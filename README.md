@@ -1,5 +1,10 @@
-# nexserver
-nex的一些介绍？
+<div align="center">
+
+<div align="center">
+  <!-- 增强标题横幅 - 使用更动感的渐变色 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:31498f,100:1b2558&height=250&section=header&text=Nexserver&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=black&desc=NexserverMC~owo&descAlignY=55" />
+
+
 # 欢迎查看NEX服务器的介绍仓库
 
 还在找不到适配自己**版本**的MC服务器？还在苦于**正版验证**、无法和好友**联机**？我的世界**NEX服务器**重磅常驻开放！**无繁琐门槛、多版本兼容、玩法全覆盖，无论是休闲养老、闯关冒险还是竞技对战，在这里都能找到专属乐趣！**！
@@ -45,3 +50,6 @@ nex的一些介绍？
 🔥 **无需正版、版本兼容、玩法齐全！**
 
 即刻加入我的世界NEX服务器，告别单机孤单，和超多玩家一起开启多元MC冒险，解锁不一样的方块世界乐趣！
+
+<!-- 添加波浪动画页脚 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:31498f,100:1b255&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
